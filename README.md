@@ -1,6 +1,6 @@
 # mCNS-atlas
 
-Code and implementation for the Spatial Atlas of Molecular Cell Types and AAV Accessibility across the Whole Mouse Brain. 
+Code and implementation for the '**Spatial Atlas of Molecular Cell Types and AAV Accessibility across the Whole Mouse Brain**'. 
 
 
 
