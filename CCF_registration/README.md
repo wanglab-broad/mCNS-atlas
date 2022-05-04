@@ -4,5 +4,5 @@
 - The analysis include the following steps:
   -   [Annotate]()
   -   [Display]()
-  -   [Get cell region ID labels]()
+  -   [Get cell region ID labels](AP_histology-adapted-registration/get_histology_annotation_on_raw.m)
   -   [Get cell region parent ID labels]()
