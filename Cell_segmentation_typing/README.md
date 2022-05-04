@@ -9,4 +9,8 @@
   - Batch effect check and removal
   - Integration with [scRNA-seq data](http://mousebrain.org/adolescent/downloads.html)  
   - Leiden Clustering
-  - Label transfer
+  - Label transfer of main clusters
+
+### Subcluster cell types
+- We further subcluster by Leiden clustering and then manually annotate within each main cluster
+- Example script of 'Di- and mesencephalon excitatory neurons' is provided
