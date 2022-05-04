@@ -14,3 +14,8 @@
 ### Subcluster cell types
 - We further subcluster by Leiden clustering and then manually annotate within each main cluster
 - Example script of 'Di- and mesencephalon excitatory neurons' is provided
+
+
+### Plot UMAP and cell type map
+- [UMAP](https://scanpy.readthedocs.io/en/latest/generated/scanpy.tl.umap.html#scanpy-tl-umap) is plotted colored by subclusters.
+- Spatial cell-type maps are plotted colored by subclusters of 20 mouse CNS slices. Each dot represents one cell.
