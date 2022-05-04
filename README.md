@@ -4,7 +4,7 @@ Code and implementation for the '**Spatial Atlas of Molecular Cell Types and AAV
 
 
 
-1. STARmap PLUS Data Processing
+1. STARmap PLUS data processing
 2. Cell segmentation and cell typing
 3. Tissue domain analysis
 4. CCF registration
