@@ -21,7 +21,7 @@ Code and implementation for the '**Spatial Atlas of Molecular Cell Types and AAV
 
 #### Citation
 
-If you find ClusterMap useful for your work, please cite our paper: 
+If you find mCNS-atlas useful for your work, please cite our paper: 
 
 > Spatial Atlas of Molecular Cell Types and AAV Accessibility across the Whole Mouse Brain
 
