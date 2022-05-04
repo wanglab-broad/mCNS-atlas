@@ -1,5 +1,7 @@
-1. cell segmentation
-    - segmentation is based [ClusterMap package](https://github.com/wanglab-broad/ClusterMap)
-    - example scripts for cell segmentation in sagittal sections are provided
+### cell segmentation
+    - The segmentation is based [ClusterMap package](https://github.com/wanglab-broad/ClusterMap)
+    - Example scripts for cell segmentation in sagittal sections are provided
 
-2.
+### combined cell typing
+    - Cells in all samples are pooled together for combined analysis
+    - The analysis 
