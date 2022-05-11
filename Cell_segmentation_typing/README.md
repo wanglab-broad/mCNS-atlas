@@ -3,7 +3,7 @@
 - Example scripts for cell segmentation in sagittal sections are under `segmentation`
 
 ### Combined cell typing
-- Cells in all samples are pooled together for combined analysis
+- Cells in all samples are pooled together for combined analysis in `combined_cell_typing.ipynb`
 - The analysis includes the following steps:
   - Preprocessing
   - Batch effect check and removal
