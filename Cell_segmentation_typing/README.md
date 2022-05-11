@@ -1,6 +1,6 @@
 ### Cell segmentation
 - The routine segmentation pipeline is based [ClusterMap package](https://github.com/wanglab-broad/ClusterMap)
-- Example scripts for cell segmentation in sagittal sections are under `segmentation`
+- Example scripts for cell segmentation in sagittal sections are under `segmentation`. Change input for cell segmentation of other sections.
 
 ### Combined cell typing
 - Cells in all samples are pooled together for combined analysis in `combined_cell_typing.ipynb`
@@ -13,7 +13,7 @@
 
 ### Subcluster cell types
 - We further subcluster by Leiden clustering and then manually annotate within each main cluster
-- Example script of 'Di- and mesencephalon excitatory neurons' and 'cerebellum neurons' is provided
+- Example script of 'Di- and mesencephalon excitatory neurons' and 'cerebellum neurons' is provided. Change input main cell type for susbclustering of other main cell types.
 
 
 ### Plot UMAP and cell type map
