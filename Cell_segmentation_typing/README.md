@@ -13,7 +13,7 @@
 
 ### Subcluster cell types
 - We further subcluster by Leiden clustering and then manually annotate within each main cluster
-- Example script of 'Di- and mesencephalon excitatory neurons' and 'cerebellum neurons' is provided. Change input main cell type for susbclustering of other main cell types.
+- Example script of 'Di- and mesencephalon excitatory neurons' and 'cerebellum neurons' are in `subcluster_cell_type-Di- and mesencephalon excitatory neurons.ipynb` and `subcluster_cell_type-cerebellumneuron.ipynb`. Change main cell type input for susbclustering of other main cell types.
 
 
 ### Plot UMAP and cell type map
