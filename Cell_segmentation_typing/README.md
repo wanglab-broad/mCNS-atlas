@@ -1,6 +1,6 @@
 ### Cell segmentation
 - The routine segmentation pipeline is based [ClusterMap package](https://github.com/wanglab-broad/ClusterMap)
-- Example scripts for cell segmentation in sagittal sections are provided
+- Example scripts for cell segmentation in sagittal sections are under `segmentation`
 
 ### Combined cell typing
 - Cells in all samples are pooled together for combined analysis
