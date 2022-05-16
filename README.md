@@ -16,7 +16,7 @@ Code and implementation for the '**Spatial Atlas of Molecular Cell Types and AAV
 ### Other Info
 
 #### Note
-We labeled an adeno-associated virus capsid variant AAV.PHP.eB with barcode sequences. The barcode is expressed from the AAV genome in the circular RNA form using a previously reported 'racRNA' scaffold (DOI: 10.1038/s41587-019-0090-6). We refer AAV.PHP.eB circular RNA barcodes as 'racRNA' hereafter.
+We labeled an adeno-associated virus capsid variant AAV.PHP.eB with barcode sequences. The barcode is expressed from the AAV genome in the circular RNA form using a previously reported 'racRNA' scaffold ([DOI](10.1038/s41587-019-0090-6)). We refer AAV.PHP.eB circular RNA barcodes as 'racRNA' hereafter.
 
 #### Citation
 
