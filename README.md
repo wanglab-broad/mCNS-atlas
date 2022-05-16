@@ -8,7 +8,7 @@ Code and implementation for the '**Spatial Atlas of Molecular Cell Types and AAV
 3. Tissue domain analysis
 4. CCF registration
 5. Imputation
-6. racRNA analysis
+6. AAV.PHP.eB circular RNA barcode (or racRNA) analysis
 
 
 
