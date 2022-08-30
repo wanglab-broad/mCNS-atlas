@@ -22,7 +22,7 @@ We labeled an adeno-associated virus capsid variant AAV.PHP.eB with barcode sequ
 
 If you find mCNS-atlas useful for your work, please cite our paper: 
 
-> Spatial Atlas of Molecular Cell Types and AAV Accessibility across the Whole Mouse Brain
+> Shi, H., He, Y., Zhou, Y., Huang, J., Wang, B., Tang, Z., Tan, P., Wu, M., Lin, Z., Ren, J. and Thapa, Y., 2022. Spatial Atlas of the Mouse Central Nervous System at Molecular Resolution. bioRxiv.
 
 
 #### Contributor
