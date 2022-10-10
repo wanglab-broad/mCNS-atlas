@@ -8,7 +8,7 @@ Code and implementation for the '**Spatial Atlas of the Mouse Central Nervous Sy
 3. Tissue domain analysis
 4. CCF registration
 5. Imputation
-6. AAV.PHP.eB circular RNA barcode (or racRNA) analysis
+6. AAV.PHP.eB circular RNA barcode analysis
 
 ***
 
