@@ -24,7 +24,12 @@ If you find mCNS-atlas useful for your work, please cite our paper:
 
 #### Contributor
 
-Yichun He, Jiahao Huang, Brandon Wang, Hailing Shi, Xin Tang
+[Yichun He](https://github.com/heihaizhengdong), 
+[Jiahao Huang](https://github.com/jiahaoh), 
+[Kamal Maher](https://github.com/kmaherx),
+[Brandon Wang](https://github.com/br-wa),
+Hailing Shi,
+[Xin Tang](https://github.com/xintangg)
 
 
 #### Acknowledgement
