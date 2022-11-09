@@ -5,7 +5,7 @@ Code and implementation for the '**Spatial Atlas of the Mouse Central Nervous Sy
 
 1. STARmap PLUS data processing
 2. Cell segmentation and cell typing
-3. Tissue domain analysis
+3. Tissue domain analysis (spatial_integration)
 4. CCF registration
 5. Imputation
 6. AAV.PHP.eB circular RNA barcode analysis
