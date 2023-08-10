@@ -1,0 +1,28 @@
+,index,Unnamed: 0,subset,label,color,sortkey
+0,0,0,Rank4_Refine,Vascular and leptomeningeal cells,#1F77B4,1.0
+1,1,1,Rank4_Refine,Pericytes,#C49C94,2.0
+2,2,2,Rank4_Refine,Vascular endothelial cells,#8E6D61,3.0
+3,3,3,Rank4_Refine,Vascular smooth muscle cells,#8C564B,4.0
+4,4,4,Rank4_Refine,Olfactory ensheathing cells,#374A46,5.0
+5,5,5,Rank4_Refine,Oligodendrocyte precursor cells,#778A84,6.0
+6,6,6,Rank4_Refine,Astrocytes,#DBDB8D,7.0
+7,7,7,Rank4_Refine,Ependymal cells,#C5B0D5,8.0
+8,8,8,Rank4_Refine,Choroid plexus epithelial cells,#9467BD,9.0
+9,9,9,Rank4_Refine,Subcommissural organ hypendymal cells,#A54485,10.0
+10,10,10,Rank4_Refine,Oligodendrocytes,#9EDAE5,11.0
+11,11,11,Rank4_Refine,Microglia,#A2B1D8,12.0
+12,12,12,Rank4_Refine,Perivascular macrophages,#8599CB,13.0
+13,13,13,Rank4_Refine,Cholinergic and monoaminergic neurons,#DA7F8C,14.0
+14,14,14,Rank4_Refine,Peptidergic neurons,#D62728,15.0
+15,15,15,Rank4_Refine,Di- and mesencephalon excitatory neurons,#FF9896,16.0
+16,16,16,Rank4_Refine,Di- and mesencephalon inhibitory neurons,#E377C2,17.0
+17,17,17,Rank4_Refine,Non-glutamatergic neuroblasts,#BCBD22,18.0
+18,18,18,Rank4_Refine,Glutamatergic neuroblasts,#AEC7E8,19.0
+19,19,19,Rank4_Refine,Hindbrain neurons/Spinal cord neurons,#F7B6D2,20.0
+20,20,20,Rank4_Refine,Telencephalon inhibitory interneurons,#FF7F0E,21.0
+21,21,21,Rank4_Refine,Olfactory inhibitory neurons,#FFBB78,22.0
+22,22,22,Rank4_Refine,Telencephalon projecting excitatory neurons,#2CA02C,23.0
+23,23,23,Rank4_Refine,Telencephalon projecting inhibitory neurons,#17BECF,24.0
+24,24,24,Rank4_Refine,Dentate gyrus granule neurons,#98DF8A,25.0
+25,25,25,Rank4_Refine,Cerebellum neurons,#EDE659,26.0
+26,26,26,Rank4_Refine,Unannotated,#D9D9D9,27.0
