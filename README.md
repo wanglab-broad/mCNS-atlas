@@ -19,7 +19,7 @@ Code and implementation for the '**Spatial Atlas of the Mouse Central Nervous Sy
 
 If you find mCNS-atlas useful for your work, please cite our paper: 
 
-> [Shi, H., He, Y., Zhou, Y., Huang, J., Wang, B., Tang, Z., Tan, P., Wu, M., Lin, Z., Ren, J. and Thapa, Y., 2022. Spatial Atlas of the Mouse Central Nervous System at Molecular Resolution. bioRxiv.](https://www.biorxiv.org/content/10.1101/2022.06.20.496914v1.abstract)
+> [Shi, H., He, Y., Zhou, Y., Huang, J., Maher, K., Wang, B., Tang, Z., Luo, S., Tan, P., Wu, M. and Lin, Z., 2023. Spatial atlas of the mouse central nervous system at molecular resolution. Nature, pp.1-10.](https://www.nature.com/articles/s41586-023-06569-5)
 
 
 #### Contributor
